@@ -24,7 +24,7 @@ https://books.google.es/books?id=5P5DzgEACAAJ&dq=%22Deep+learning+for+the+Earth+
 
 https://www.amazon.com/Deep-learning-Earth-Sciences-comprehensive/dp/1119646146/
 
-# Links to toolboxes, code and software
+# Links to toolboxes, code and data
 
 #### **Chapter 01: **
 
@@ -89,4 +89,3 @@ Below we list the data and codes published in the cryospheric studies reviewed i
 	Code: https://github.com/abhineet123/river\_ice\_segmentation
 	Data: https://ieee-dataport.org/open-access/alberta-river-ice-segmentation-dataset
 
-# Links to datasets, applications and platforms
