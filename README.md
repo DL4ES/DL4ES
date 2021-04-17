@@ -1,6 +1,5 @@
 # The DL4ES book
 
-This is the page for the book<br>
 "Deep learning for the Earth Sciences -- A comprehensive approach to remote sensing, climate science and geosciences"<br>
 Editors: Gustau Camps-Valls, Devis Tuia, Xiao Xiang Zhu, Markus Reichstein<br>
 Publisher: Wiley & Sons, inc., 2021<br>
@@ -9,13 +8,13 @@ Publisher: Wiley & Sons, inc., 2021<br>
 
 ## Cite it
 
-@Book{CampsValls21wiley,
-Title = {Deep learning for the Earth Sciences: A comprehensive approach to remote sensing, climate science and geosciences},
-Author = {Camps-Valls, G. and Tuia, D. and Zhu, X.X. and Reichstein, M.},
-Publisher = {Wiley \& Sons},
-isbn = {978-1-119-64614-3},
-Year = {2021},
-}
+@Book{CampsValls21wiley,<br>
+Title = {Deep learning for the Earth Sciences: A comprehensive approach to remote sensing, climate science and geosciences},<br>
+Author = {Camps-Valls, G. and Tuia, D. and Zhu, X.X. and Reichstein, M.},<br>
+Publisher = {Wiley \& Sons},<br>
+isbn = {978-1-119-64614-3},<br>
+Year = {2021},<br>
+}<br>
 
 ## Preview it
 
