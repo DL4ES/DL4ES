@@ -42,18 +42,18 @@ Some review papers of interest:
 #### **Chapter 17: A review of Deep Learning for cryospheric studies**
 
 Here are the major data centers, repositories, and providers for cryospheric studies:
-	* US National Snow and Ice Data Center (\url{https://nsidc.org})
-	* US National Science Foundation Arctic Data Center (\url{https://arcticdata.io})
-	* US Antarctic Program Data Center (\url{http://www.usap-dc.org})
-	* European Space Agency Climate Change Initiative (\url{http://cci.esa.int})
-		- Antarctic Ice Sheet  (\url{http://esa-icesheets-antarctica-cci.org})
-		- Greenland Ice Sheet  (\url{http://esa-icesheets-greenland-cci.org})
-		- Glaciers (\url{http://www.esa-glaciers-cci.org})
-		- Permafrost (\url{http://cci.esa.int/Permafrost})
-		- Sea ice (\url{http://cci.esa.int/seaice})
-		- Snow (\url{http://cci.esa.int/node/274/})
-	* Canadian Cryospheric Information Network (\url{https://www.ccin.ca})
-	* China National Tibetan Plateau Data Center (\url{https://data.tpdc.ac.cn/en/})
+* US National Snow and Ice Data Center (\url{https://nsidc.org})
+* US National Science Foundation Arctic Data Center (\url{https://arcticdata.io})
+* US Antarctic Program Data Center (\url{http://www.usap-dc.org})
+* European Space Agency Climate Change Initiative (\url{http://cci.esa.int})
+	- Antarctic Ice Sheet  (\url{http://esa-icesheets-antarctica-cci.org})
+	- Greenland Ice Sheet  (\url{http://esa-icesheets-greenland-cci.org})
+	- Glaciers (\url{http://www.esa-glaciers-cci.org})
+	- Permafrost (\url{http://cci.esa.int/Permafrost})
+	- Sea ice (\url{http://cci.esa.int/seaice})
+	- Snow (\url{http://cci.esa.int/node/274/})
+* Canadian Cryospheric Information Network (\url{https://www.ccin.ca})
+* China National Tibetan Plateau Data Center (\url{https://data.tpdc.ac.cn/en/})
 	
 Below we list the data and codes published in the cryospheric studies reviewed in this chapter, grouped by the cryospheric components.
 * Glaciers
