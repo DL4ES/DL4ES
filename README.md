@@ -8,8 +8,8 @@ Publisher: Wiley & Sons, inc., 2021<br>
 
 ## Cite it
 
-> @Book{CampsValls21wiley,<br>
-> Title = {Deep learning for the Earth Sciences: A comprehensive approach to remote sensing, climate science and geosciences},<br>
+> @Book{CampsValls21wiley,
+> Title = {Deep learning for the Earth Sciences: A comprehensive approach to remote sensing, climate science and geosciences},
 > Author = {Camps-Valls, G. and Tuia, D. and Zhu, X.X. and Reichstein, M.},<br>
 > Publisher = {Wiley \& Sons},<br>
 > isbn = {978-1-119-64614-3},<br>
