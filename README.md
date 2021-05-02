@@ -26,18 +26,40 @@ https://www.amazon.com/Deep-learning-Earth-Sciences-comprehensive/dp/1119646146/
 
 # Links to toolboxes, code and data
 
-#### **Chapter 01: **
+#### **Chapter 01: Introduction**
 
 Some review papers of interest:
 <>
 
-#### **Chapter 02: **
+#### **Chapter 02: Learning Unsupervised Feature Representations of Remote Sensing Data with Sparse Convolutional Networks**
 
-#### **Chapter 03: **
+#### **Chapter 03: Generative Adversarial Networks in the Geosciences**
 
-#### **Chapter 04: **
+#### **Chapter 04: Deep Self-taught Learning in Remote Sensing**
 
-#### **Chapter 05: **
+#### **Chapter 05: Deep Learning-based Semantic Segmentation in Remote Sensing**
+
+#### **Chapter 06: Object Detection in Remote Sensing**
+
+#### **Chapter 07: Deep Domain adaptation in Earth Observation**
+
+#### **Chapter 08: Recurrent Neural Networks and the Temporal Component**
+
+#### **Chapter 09: Deep Learning for Image Matching and Co-registration**
+
+#### **Chapter 10: Multisource Remote Sensing Image Fusion**
+
+#### **Chapter 11: Deep Learning for Image Search and Retrieval in Large Remote Sensing Archives**
+
+#### **Chapter 12: Deep Learning for Detecting Extreme Weather Patterns**
+
+#### **Chapter 13: Spatio-temporal Autoencoders in Weather and Climate Research**
+
+#### **Chapter 14: Deep Learning to Improve Weather Predictions**
+
+#### **Chapter 15: Deep Learning and the Weather Forecasting Problem: Precipitation Nowcasting**
+
+#### **Chapter 16: Deep Learning for High-dimensional Parameter Retrieval**
 
 #### **Chapter 17: A review of Deep Learning for cryospheric studies**
 
@@ -88,4 +110,21 @@ Below we list the data and codes published in the cryospheric studies reviewed i
 	- River ice segmentation with deep learning \citep{singh2019}
 	Code: https://github.com/abhineet123/river\_ice\_segmentation
 	Data: https://ieee-dataport.org/open-access/alberta-river-ice-segmentation-dataset
+
+#### **Chapter 18: Emulating Ecological Memory with Recurrent Neural Networks**
+
+#### **Chapter 19: Applications of Deep Learning in Hydrology**
+
+#### **Chapter 20: Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models**
+
+#### **Chapter 21: Deep Learning for the Parametrization of Subgrid Processes in Climate Models**
+
+#### **Chapter 22: Using Deep Learning to Correct Theoretically-Derived Models**
+
+* https://github.com/PAGWatson/Lorenz96_and_neural_networks
+
+#### **Chapter 23: Outlook**
+
+
+
 
