@@ -51,6 +51,8 @@ Some review papers of interest:
 
 #### **Chapter 11: Deep Learning for Image Search and Retrieval in Large Remote Sensing Archives**
 
+https://git.tu-berlin.de/rsim
+
 #### **Chapter 12: Deep Learning for Detecting Extreme Weather Patterns**
 
 #### **Chapter 13: Spatio-temporal Autoencoders in Weather and Climate Research**
