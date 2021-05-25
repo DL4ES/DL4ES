@@ -29,28 +29,54 @@ https://www.amazon.com/Deep-learning-Earth-Sciences-comprehensive/dp/1119646146/
 #### **Chapter 01: Introduction**
 
 Some review papers of interest:
-* Remote sensing
+* <b>Remote sensing</b>
 	- X. X. Zhu et al., "Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources," in IEEE Geoscience and Remote Sensing Magazine, vol. 5, no. 4, pp. 8-36, Dec. 2017, doi: 10.1109/MGRS.2017.2762307. https://ieeexplore.ieee.org/abstract/document/8113128
 	- L. Zhang, L. Zhang and B. Du, "Deep Learning for Remote Sensing Data: A Technical Tutorial on the State of the Art," in IEEE Geoscience and Remote Sensing Magazine, vol. 4, no. 2, pp. 22-40, June 2016, doi: 10.1109/MGRS.2016.2540798. https://ieeexplore.ieee.org/abstract/document/7486259
 	- Ma, Lei, et al. "Deep learning in remote sensing applications: A meta-analysis and review." ISPRS journal of photogrammetry and remote sensing 152 (2019): 166-177. https://www.sciencedirect.com/science/article/pii/S0924271619301108
 	- Yuan, Qiangqiang, et al. "Deep learning in environmental remote sensing: Achievements and challenges." Remote Sensing of Environment 241 (2020): 111716. https://www.sciencedirect.com/science/article/pii/S0034425720300857
-* Geoscience
-	-Reichstein, M., Camps-Valls, G., Stevens, B., Jung, M., Denzler, J., & Carvalhais, N. (2019). Deep learning and process understanding for data-driven Earth system science. Nature, 566(7743), 195-204. https://www.nature.com/articles/s41586-019-0912-1.
-	- Bergen, Karianne J., et al. "Machine learning for data-driven discovery in solid Earth geoscience." Science 363.6433 (2019). https://science.sciencemag.org/content/363/6433/eaau0323.abstract
-* Climate science
+* <b>Climate science</b>
 	- Rasp, Stephan, Michael S. Pritchard, and Pierre Gentine. "Deep learning to represent subgrid processes in climate models." Proceedings of the National Academy of Sciences 115.39 (2018): 9684-9689. https://www.pnas.org/content/115/39/9684.short
 	- Jones, Nicola. "How machine learning could help to improve climate forecasts." Nature News 548.7668 (2017): 379. https://www.nature.com/articles/548379a
 	- Dueben, Peter D., and Peter Bauer. "Challenges and design choices for global weather and climate models based on machine learning." Geoscientific Model Development 11.10 (2018): 3999-4009. https://gmd.copernicus.org/articles/11/3999/2018/
+* <b>Geosciences</b>
+	- Reichstein, M., Camps-Valls, G., Stevens, B., Jung, M., Denzler, J., & Carvalhais, N. (2019). Deep learning and process understanding for data-driven Earth system science. Nature, 566(7743), 195-204. https://www.nature.com/articles/s41586-019-0912-1.
+	- Bergen, Karianne J., et al. "Machine learning for data-driven discovery in solid Earth geoscience." Science 363.6433 (2019). https://science.sciencemag.org/content/363/6433/eaau0323.abstract
 
 #### **Chapter 02: Learning Unsupervised Feature Representations of Remote Sensing Data with Sparse Convolutional Networks**
 
+* EPLS algorithm in https://sites.google.com/site/adriromsor/epls
+
 #### **Chapter 03: Generative Adversarial Networks in the Geosciences**
+
+* GANs zoo: https://github.com/hindupuravinash/the-gan-zoo
 
 #### **Chapter 04: Deep Self-taught Learning in Remote Sensing**
 
 #### **Chapter 05: Deep Learning-based Semantic Segmentation in Remote Sensing**
 
+* http://www2.isprs.org/commissions/comm3/wg4/semantic-labeling.html
+* http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest/
+* https://sites.google.com/site/michelevolpiresearch/data/zurich-dataset
+* https://project.inria.fr/aerialimagelabeling/
+* https://spacenetchallenge.github.io
+* http://deepglobe.org/
+* https://spacenet.ai/sn6-challenge/
+* https://github.com/cloudtostreet/Sen1Floods11
+* http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/
+* https://udayton.edu/engineering/research/centers/vision_lab/research/was_data_analysis_and_processing/dale.php
+* http://www.grss-ieee.org/community/technical-committees/data-fusion/2017-ieee-grss-data-fusion-contest-2/
+* https://mediatum.ub.tum.de/1454690
+* http://dx.doi.org/10.21227/b9pt-8x03
+* https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset
+* https://rcdaudt.github.io/oscd/
+
 #### **Chapter 06: Object Detection in Remote Sensing**
+
+* https://captain-whu.github.io/DOTA/
+* http://aiskyeye.com/
+* http://xviewdataset.org/
+* https://github.com/dingjiansw101/RoITransformer_DOTA
+* https://github.com/dingjiansw101/AerialDetection
 
 #### **Chapter 07: Deep Domain adaptation in Earth Observation**
 
