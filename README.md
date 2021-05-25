@@ -29,10 +29,14 @@ https://www.amazon.com/Deep-learning-Earth-Sciences-comprehensive/dp/1119646146/
 #### **Chapter 01: Introduction**
 
 Some review papers of interest:
-* X. X. Zhu et al., "Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources," in IEEE Geoscience and Remote Sensing Magazine, vol. 5, no. 4, pp. 8-36, Dec. 2017, doi: 10.1109/MGRS.2017.2762307. https://ieeexplore.ieee.org/abstract/document/8113128
-* L. Zhang, L. Zhang and B. Du, "Deep Learning for Remote Sensing Data: A Technical Tutorial on the State of the Art," in IEEE Geoscience and Remote Sensing Magazine, vol. 4, no. 2, pp. 22-40, June 2016, doi: 10.1109/MGRS.2016.2540798. https://ieeexplore.ieee.org/abstract/document/7486259
-* Ma, Lei, et al. "Deep learning in remote sensing applications: A meta-analysis and review." ISPRS journal of photogrammetry and remote sensing 152 (2019): 166-177. https://www.sciencedirect.com/science/article/pii/S0924271619301108
-* Yuan, Qiangqiang, et al. "Deep learning in environmental remote sensing: Achievements and challenges." Remote Sensing of Environment 241 (2020): 111716. https://www.sciencedirect.com/science/article/pii/S0034425720300857
+* <b>Remote sensing </b>
+- X. X. Zhu et al., "Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources," in IEEE Geoscience and Remote Sensing Magazine, vol. 5, no. 4, pp. 8-36, Dec. 2017, doi: 10.1109/MGRS.2017.2762307. https://ieeexplore.ieee.org/abstract/document/8113128
+- L. Zhang, L. Zhang and B. Du, "Deep Learning for Remote Sensing Data: A Technical Tutorial on the State of the Art," in IEEE Geoscience and Remote Sensing Magazine, vol. 4, no. 2, pp. 22-40, June 2016, doi: 10.1109/MGRS.2016.2540798. https://ieeexplore.ieee.org/abstract/document/7486259
+- Ma, Lei, et al. "Deep learning in remote sensing applications: A meta-analysis and review." ISPRS journal of photogrammetry and remote sensing 152 (2019): 166-177. https://www.sciencedirect.com/science/article/pii/S0924271619301108
+- Yuan, Qiangqiang, et al. "Deep learning in environmental remote sensing: Achievements and challenges." Remote Sensing of Environment 241 (2020): 111716. https://www.sciencedirect.com/science/article/pii/S0034425720300857
+* <b>Geoscience </b>
+* <b>Climate science</b>
+
 
 #### **Chapter 02: Learning Unsupervised Feature Representations of Remote Sensing Data with Sparse Convolutional Networks**
 
