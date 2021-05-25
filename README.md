@@ -80,11 +80,33 @@ Some review papers of interest:
 
 #### **Chapter 07: Deep Domain adaptation in Earth Observation**
 
+* https://github.com/bkellenb/da-dl4eo
+* https://kuzikus-namibia.de/xe_index.html
+
 #### **Chapter 08: Recurrent Neural Networks and the Temporal Component**
 
 #### **Chapter 09: Deep Learning for Image Matching and Co-registration**
 
+* https://github.com/stergioc/smooth-transformer
+
 #### **Chapter 10: Multisource Remote Sensing Image Fusion**
+
+* BDSD: http://openremotesensing.net/wp-content/uploads/2015/01/pansharpeningtoolver_1_3.rar
+* MTF-GLP: http://openremotesensing.net/wp-content/uploads/2015/01/pansharpeningtoolver_1_3.rar
+* SIRF: http://cchen156.web.engr.illinois.edu/code/CODE_SIRF.zip
+* PNN: http://www.grip.unina.it/download/prog/PNN/PNN_v0.1.zip
+* DRPNN: https://github.com/Decri/DRPNN-Deep-Residual-Pan-sharpening-Neural-Network
+* PanNet: https://xueyangfu.github.io/paper/2017/iccv/ICCV17_training_code.zip
+* PNN+: https://github.com/sergiovitale/pansharpening-cnn
+* http://naotoyokoya.com/Download.html
+* https://github.com/qw245/BlindFuse
+* https://github.com/alfaiate
+* https://sites.google.com/site/harikanats/
+* https://sites.google.com/view/renweidian/
+* https://github.com/aicip/uSDN
+* https://github.com/XieQi2015/MHF-net
+* http://naotoyokoya.com/Download.html
+* http://www1.cs.columbia.edu/CAVE/databases/
 
 #### **Chapter 11: Deep Learning for Image Search and Retrieval in Large Remote Sensing Archives**
 
@@ -92,11 +114,25 @@ Some review papers of interest:
 
 #### **Chapter 12: Deep Learning for Detecting Extreme Weather Patterns**
 
+* Coded Surface Bulletin (CSB): http://www.nws.noaa.gov/noaaport/html/noaaport.shtml
+* ClimateNet: https://www.nersc.gov/research-and-development/data-analytics/big-data-center/climatenet
+* ClimateContoursTool: http://labelmegold.services.nersc.gov/climatecontoursgold/tool.html
+
 #### **Chapter 13: Spatio-temporal Autoencoders in Weather and Climate Research**
+
+* https://github.com/ClimateInformatics/SupernoVAE
 
 #### **Chapter 14: Deep Learning to Improve Weather Predictions**
 
+* https://www.top500.org/
+* https://www.ecmwf.int/en/about/what-we-do/scalability
+* https://www.ecmwf.int/en/computing/our-facilities/data-handling-system
+
 #### **Chapter 15: Deep Learning and the Weather Forecasting Problem: Precipitation Nowcasting**
+
+* WMO-No.1198 report: https://library.wmo.int/doc_num.php?explnum_id=3795
+* HKO: https://rsmc.hko.gov.hk
+* Com-SWIRLS: https://com-swirls.org
 
 #### **Chapter 16: Deep Learning for High-dimensional Parameter Retrieval**
 
@@ -164,6 +200,6 @@ Below we list the data and codes published in the cryospheric studies reviewed i
 
 #### **Chapter 23: Outlook**
 
-
-
-
+* Reichstein, M., Camps-Valls, G., Stevens, B., Jung, M., Denzler, J., & Carvalhais, N. (2019). Deep learning and process understanding for data-driven Earth system science. Nature, 566(7743), 195-204. https://www.nature.com/articles/s41586-019-0912-1.
+* Tuia, Devis, Ribana Roscher, Jan Dirk Wegner, Nathan Jacobs, Xiao Xiang Zhu, and Gustau Camps-Valls. "Towards a Collective Agenda on AI for Earth Science Data Analysis." arXiv preprint arXiv:2104.05107 (2021). https://arxiv.org/abs/2104.05107
+* Camps-Valls, Gustau. "Perspective on Deep Learning for Earth Sciences." Generalization With Deep Learning: For Improvement On Sensing Capability (2021): 159-173. https://www.worldscientific.com/doi/abs/10.1142/9789811218842_0007
