@@ -26,7 +26,8 @@ https://www.amazon.com/Deep-learning-Earth-Sciences-comprehensive/dp/1119646146/
 
 # Links to toolboxes, code and data
 
-#### **Chapter 01: Introduction**
+#### **Chapter 01: Introduction** 
+by Gustau Camps-Valls, Xiao Xiang Zhu, Devis Tuia, and Markus Reichstein
 
 Some review papers of interest:
 * <b>Remote sensing</b>
@@ -43,16 +44,20 @@ Some review papers of interest:
 	- Bergen, Karianne J., et al. "Machine learning for data-driven discovery in solid Earth geoscience." Science 363.6433 (2019). https://science.sciencemag.org/content/363/6433/eaau0323.abstract
 
 #### **Chapter 02: Learning Unsupervised Feature Representations of Remote Sensing Data with Sparse Convolutional Networks**
+by Jose E. Adsuara, Manuel Campos-Taberner, Javier García-Haro, Carlo Gatta, Adriana Romero, and Gustau Camps-Valls
 
 * EPLS algorithm in https://sites.google.com/site/adriromsor/epls
 
 #### **Chapter 03: Generative Adversarial Networks in the Geosciences**
+Gonzalo Mateo-García, Valero Laparra, Christian Requena-Mesa, and Luis Gómez-Chova
 
 * GANs zoo: https://github.com/hindupuravinash/the-gan-zoo
 
 #### **Chapter 04: Deep Self-taught Learning in Remote Sensing**
+by Ribana Roscher
 
 #### **Chapter 05: Deep Learning-based Semantic Segmentation in Remote Sensing**
+by Devis Tuia, Diego Marcos, Konrad Schindler, and Bertrand Le Saux
 
 * http://www2.isprs.org/commissions/comm3/wg4/semantic-labeling.html
 * http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest/
@@ -71,6 +76,7 @@ Some review papers of interest:
 * https://rcdaudt.github.io/oscd/
 
 #### **Chapter 06: Object Detection in Remote Sensing**
+by Jian Ding, Jinwang Wang, Wen Yang, and Gui-Song Xia
 
 * https://captain-whu.github.io/DOTA/
 * http://aiskyeye.com/
@@ -79,17 +85,21 @@ Some review papers of interest:
 * https://github.com/dingjiansw101/AerialDetection
 
 #### **Chapter 07: Deep Domain adaptation in Earth Observation**
+by Benjamin Kellenberger, Onur Tasar, Bharath Bhushan Damodaran, Nicolas Courty, and Devis Tuia
 
 * https://github.com/bkellenb/da-dl4eo
 * https://kuzikus-namibia.de/xe_index.html
 
 #### **Chapter 08: Recurrent Neural Networks and the Temporal Component**
+by Marco Körner and Marc Rußwurm
 
 #### **Chapter 09: Deep Learning for Image Matching and Co-registration**
+by Maria Vakalopoulou, Stergios Christodoulidis, Mihir Sahasrabudhe, and Nikos Paragios
 
 * https://github.com/stergioc/smooth-transformer
 
 #### **Chapter 10: Multisource Remote Sensing Image Fusion**
+by Wei He, Danfeng Hong, Giuseppe Scarpa, Tatsumi Uezato, and Naoto Yokoya
 
 * BDSD: http://openremotesensing.net/wp-content/uploads/2015/01/pansharpeningtoolver_1_3.rar
 * MTF-GLP: http://openremotesensing.net/wp-content/uploads/2015/01/pansharpeningtoolver_1_3.rar
@@ -109,34 +119,41 @@ Some review papers of interest:
 * http://www1.cs.columbia.edu/CAVE/databases/
 
 #### **Chapter 11: Deep Learning for Image Search and Retrieval in Large Remote Sensing Archives**
+by Gencer Sumbul, Jian Kang, and Begüm Demir
 
 * https://git.tu-berlin.de/rsim
 
 #### **Chapter 12: Deep Learning for Detecting Extreme Weather Patterns**
+by Mayur Mudigonda, Prabhat, Karthik Kashinath, Evan Racah, Ankur Mahesh, Yunjie Liu, Christopher Beckham, Jim Biard, Thorsten Kurth, Sookyung Kim, Samira Kahou, Tegan Maharaj, Burlen Loring, Christopher Pal, Travis O’Brien, Ken Kunkel, Michael F. Wehner, and William D. Collins
 
 * Coded Surface Bulletin (CSB): http://www.nws.noaa.gov/noaaport/html/noaaport.shtml
 * ClimateNet: https://www.nersc.gov/research-and-development/data-analytics/big-data-center/climatenet
 * ClimateContoursTool: http://labelmegold.services.nersc.gov/climatecontoursgold/tool.html
 
 #### **Chapter 13: Spatio-temporal Autoencoders in Weather and Climate Research**
+by Xavier-Andoni Tibau, Christian Reimers, Christian Requena-Mesa, and Jakob Runge
 
 * https://github.com/ClimateInformatics/SupernoVAE
 
 #### **Chapter 14: Deep Learning to Improve Weather Predictions**
+by Peter D. Dueben, Peter Bauer, and Samantha Adams
 
 * https://www.top500.org/
 * https://www.ecmwf.int/en/about/what-we-do/scalability
 * https://www.ecmwf.int/en/computing/our-facilities/data-handling-system
 
 #### **Chapter 15: Deep Learning and the Weather Forecasting Problem: Precipitation Nowcasting**
+by Zhihan Gao, Xingjian Shi, Hao Wang, Dit-Yan Yeung, Wang-chun Woo, and Wai-Kin Wong
 
 * WMO-No.1198 report: https://library.wmo.int/doc_num.php?explnum_id=3795
 * HKO: https://rsmc.hko.gov.hk
 * Com-SWIRLS: https://com-swirls.org
 
 #### **Chapter 16: Deep Learning for High-dimensional Parameter Retrieval**
+by David Malmgren-Hansen
 
 #### **Chapter 17: A review of Deep Learning for cryospheric studies**
+by Lin Liu
 
 Here are the major data centers, repositories, and providers for cryospheric studies:
 * US National Snow and Ice Data Center (https://nsidc.org)
@@ -187,18 +204,24 @@ Below we list the data and codes published in the cryospheric studies reviewed i
 	Data: https://ieee-dataport.org/open-access/alberta-river-ice-segmentation-dataset
 
 #### **Chapter 18: Emulating Ecological Memory with Recurrent Neural Networks**
+by Basil Kraft, Simon Besnard, and Sujan Koirala
 
 #### **Chapter 19: Applications of Deep Learning in Hydrology**
+by Chaopeng Shen and Kathryn Lawson
 
 #### **Chapter 20: Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models**
+by Laure Zanna and Thomas Bolton
 
 #### **Chapter 21: Deep Learning for the Parametrization of Subgrid Processes in Climate Models**
+by Pierre Gentine, Veronika Eyring, and Tom Beucler
 
 #### **Chapter 22: Using Deep Learning to Correct Theoretically-Derived Models**
+by Peter A. G. Watson
 
 * https://github.com/PAGWatson/Lorenz96_and_neural_networks
 
 #### **Chapter 23: Outlook**
+by Markus Reichstein, Gustau Camps-Valls, Devis Tuia, and Xiao Xiang Zhu
 
 * Reichstein, M., Camps-Valls, G., Stevens, B., Jung, M., Denzler, J., & Carvalhais, N. (2019). Deep learning and process understanding for data-driven Earth system science. Nature, 566(7743), 195-204. https://www.nature.com/articles/s41586-019-0912-1.
 * Tuia, Devis, Ribana Roscher, Jan Dirk Wegner, Nathan Jacobs, Xiao Xiang Zhu, and Gustau Camps-Valls. "Towards a Collective Agenda on AI for Earth Science Data Analysis." arXiv preprint arXiv:2104.05107 (2021). https://arxiv.org/abs/2104.05107
