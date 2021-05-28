@@ -152,6 +152,16 @@ by Zhihan Gao, Xingjian Shi, Hao Wang, Dit-Yan Yeung, Wang-chun Woo, and Wai-Kin
 #### **Chapter 16: Deep Learning for High-dimensional Parameter Retrieval**
 by David Malmgren-Hansen
 
+* IASI - Atmospheric Temperature Profiles
+    Code: https://github.com/damaha/iasi-atmosphere
+    Data: https://data.dtu.dk/articles/dataset/IASI_dataset_v1/12999642
+
+* ASIP - Sea Ice Concentrations from Satellite Sensor Fusion
+    Code: https://github.com/damaha/asip-v1
+    Data: https://data.dtu.dk/articles/dataset/ASIP_Sea_Ice_Dataset_-_version_1/11920416
+
+Automatic Ice charting in early operational use at the Danish Meteorological Institute: http://ocean.dmi.dk/asip/.
+
 #### **Chapter 17: A review of Deep Learning for cryospheric studies**
 by Lin Liu
 
