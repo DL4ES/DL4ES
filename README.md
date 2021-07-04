@@ -216,6 +216,9 @@ Below we list the data and codes published in the cryospheric studies reviewed i
 #### **Chapter 18: Emulating Ecological Memory with Recurrent Neural Networks**
 by Basil Kraft, Simon Besnard, and Sujan Koirala
 
+* Code: https://github.com/bask0/dl4es_ch18
+* For access to data / simulations contact [the authors](https://github.com/bask0/dl4es_ch18)
+
 #### **Chapter 19: Applications of Deep Learning in Hydrology**
 by Chaopeng Shen and Kathryn Lawson
 
