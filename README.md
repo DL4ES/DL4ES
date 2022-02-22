@@ -74,6 +74,7 @@ by Devis Tuia, Diego Marcos, Konrad Schindler, and Bertrand Le Saux
 * http://dx.doi.org/10.21227/b9pt-8x03
 * https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset
 * https://rcdaudt.github.io/oscd/
+* https://github.com/czarmanu/lake-ice-ml
 
 #### **Chapter 06: Object Detection in Remote Sensing**
 by Jian Ding, Jinwang Wang, Wen Yang, and Gui-Song Xia
